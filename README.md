@@ -7,3 +7,7 @@ if not the device will be disconnected from. If connected device does have the h
 Uses runtime permissions, flows, androids ble libraries, material 3 and more.
 
 Minimal error checking, no unit tests, only tested on Android 11 phone. Should work for others as well but not tested.
+
+
+https://user-images.githubusercontent.com/112856256/232760740-a92ad81a-35e9-47e5-ab99-8edc99db3b49.mp4
+
