@@ -1,4 +1,4 @@
-# bluetooth_hr_app
+# bluetooth_le_hr_app
 BLuetooth LE heart rate app
 
 A BLE app which scans for ble devices, after user selects an device to connect to it will do so and chech that the heart rate service is supported,
