@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestBle</string>
+    <string name="scan_screen_title">Scan for devices</string>
+    <string name="header_paired_devices">Paired devices</string>
+    <string name="subheader_paired_devices">Turn bluetooth on to see paired devices.</string>
+    <string name="header_scanned_devices">Scanned devices</string>
+    <string name="subheader_scanned_devices">Turn bluetooth on and scan for devices.</string>
+    <string name="connection_screen_title">Connection Screen</string>
+    <string name="hear_rate_title">Heart rate monitor</string>
+</resources>
