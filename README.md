@@ -8,3 +8,7 @@ Uses runtime permissions, flows, androids ble libraries, material 3 and more.
 
 Minimal error checking, no unit tests, only tested on Android 11 phone. Should work for others as well but not tested.
 
+
+
+https://user-images.githubusercontent.com/112856256/232761124-b45e1bad-9b8e-421f-9e1d-651830463997.mp4
+
